@@ -162,10 +162,6 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 
 
 
-# [Contributing](https://github.com/melvin0008/awesome-julia/blob/master/CONTRIBUTIONS.md)
-
-Your contributions are always welcome!     
-
 
 ### Motivation
 
@@ -173,3 +169,31 @@ Your contributions are always welcome!
 
 [Julia.jl](https://github.com/svaksha/Julia.jl) is a well curated list of packages but is suitable for developers who have a lot of experience. awesome-julia on the other hand is for newbies and developers with less experience. I also curated awesome-julia with another intention of having julia under the awesome-* lists. Developers directly look for awesome appended by the language they are looking for. So awesome julia does that.
 
+----
+
+# LICENSE
++ COPYRIGHT © 2012-Now [SVAKSHA](http://github.com/greister), All Rights Reserved.
++ This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - (CC BY-NC-SA 4.0) as detailed in the [LICENSE.md](LICENSE.md) file and ALL references, citations, copies and forks of this work must retain the Copyright, Licence (LICENSE.md file), this permission notice and must [attribute credit](https://en.wikipedia.org/wiki/Creative_Commons_license#Attribution).
+
+
+
+# CONTRIBUTE
+[Contributions](https://github.com/greister/awesome-Julia/contributors) to `awesome-Julia` are welcome in the form of pull requests (PR). Here are some guidelines and tips on how to submit a Bug Report (BR) and/or [PR](https://github.com/greister/awesome-Julia/pulls):
+
+## Guidelines
+The Julia community has [ethical guidelines](http://julialang.org/community/standards/) aimed at respecting Copyright, Licenses and attribution standards<sup>{1} and {2}</sup> which you are requested to follow while submitting materials to be listed. 
++ References :
+   + {1} https://github.com/JuliaLang/julialang.github.com/issues/200
+   + {2} https://github.com/JuliaLang/julialang.github.com/issues/194
+
+
+## Status
+These [comments](https://github.com/greister/awesome-Julia/commit/) led to a [BR discussing](https://github.com/greister/commit) the addition of metadata tags that will enable programmers and package users to easily distinguish the status of various Julia packages that are under various stages of development. Currently, METADATA has a tag system but not all package authors use it, making it harder for lay users to know if the package maintenance is active or not. 
+
+Lets experiment with asking package authors and core-commiters to tag their Julia packages on the following criteria : 
+
+On a scale of 1 to 5 (1=lowest,..5=highest), please rank your package for,
+
++ `Usability` : Does the package do what it says it does? is it easy to figure out? Is the package production-ready and actively maintained (issues/PRs are responded and resolved in a timely manner, and maintenance and testing is at par with Julia release cycles).
++ `Quality` : Does the package have tests? are there lots of bugs? Do you have good documentation? Can it be used in production environments that expect prompt security patches?
++ `Activity` : Should a 3rd party user bother to use your library, or is it really only intended to be used by the package author? Let's say, an experimental "throw-away toy repo" whose development has now been abandoned.
