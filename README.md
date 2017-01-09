@@ -172,16 +172,16 @@ A curated list of awesome julia libraries, softwares and tutorials. Inspired by 
 ----
 
 # LICENSE
-+ COPYRIGHT © 2012-Now [SVAKSHA](http://github.com/greister), All Rights Reserved.
++ COPYRIGHT © 2012-Now [Greister](http://github.com/greister), All Rights Reserved.
 + This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - (CC BY-NC-SA 4.0) as detailed in the [LICENSE.md](LICENSE.md) file and ALL references, citations, copies and forks of this work must retain the Copyright, Licence (LICENSE.md file), this permission notice and must [attribute credit](https://en.wikipedia.org/wiki/Creative_Commons_license#Attribution).
 
 
 
 # CONTRIBUTE
-[Contributions](https://github.com/greister/awesome-Julia/contributors) to `awesome-Julia` are welcome in the form of pull requests (PR). Here are some guidelines and tips on how to submit a Bug Report (BR) and/or [PR](https://github.com/greister/awesome-Julia/pulls):
+[Contributions](https://github.com/greister/awesome-Julia/contributors) to `l` are welcome in the form of pull requests (PR). Here are some guidelines and tips on how to submit a Bug Report (BR) and/or [PR](https://github.com/greister/awesome-Julia/pulls):
 
 ## Guidelines
-The Julia community has [ethical guidelines](http://julialang.org/community/standards/) aimed at respecting Copyright, Licenses and attribution standards<sup>{1} and {2}</sup> which you are requested to follow while submitting materials to be listed. 
+The Julia community has [ethical guidelines](http://julialang.org/community/standards/) aimed at respecting Copyright, Licenses and attribution standards<sup>{1} and {2}</sup> which you are requested to follow while submitting materials to be listed. Additionally, if you find any material (or code repos) that violates these ethical standards, please file a bug report for their removal from `Julia.jl`.
 + References :
    + {1} https://github.com/JuliaLang/julialang.github.com/issues/200
    + {2} https://github.com/JuliaLang/julialang.github.com/issues/194
