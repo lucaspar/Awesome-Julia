@@ -1,6 +1,6 @@
 Awesome-Julia
 =============     
-A curated list of awesome julia libraries, softwares and tutorials. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php). Many of these resources were originally collected and curated by [@svashka](https://github.com/svaksha/) and others – thank you for the hard work.    
+A curated list of awesome julia libraries, softwares and tutorials. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php). Many of these resources were originally collected and curated by [@svashka](https://github.com/svaksha/),[@melvin0008](https://github.com/melvin0008/awesome-julia/) and others – thank you for the hard work.    
 
 
 - [Awesome Julia](#awesome-julia)
